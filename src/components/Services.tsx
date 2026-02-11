@@ -84,7 +84,7 @@ const Services: React.FC = () => {
                     </div>
                     
                     <button
-  onClick={() => window.open('https://wa.me/13997429361', '_blank')}
+  onClick={() => window.open('https://wa.me/1399999999', '_blank')}
   className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium"
 >
                       Agendar Serviço
@@ -131,13 +131,13 @@ const Services: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
-  onClick={() => window.open('https://wa.me/13997429361', '_blank')}
+  onClick={() => window.open('https://wa.me/1999999999', '_blank')}
   className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium"
 >
               Agendar Agora
             </button>
             <button
-  onClick={() => window.open('https://wa.me/13997429361', '_blank')}
+  onClick={() => window.open('https://wa.me/13999999999', '_blank')}
   className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium"
 >
               Solicitar Orçamento

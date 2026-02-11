@@ -13,7 +13,7 @@ const Header: React.FC = () => {
             <div className="flex items-center space-x-6">
               <div className="flex items-center space-x-2">
                 <Phone size={14} />
-                <span>(13)99742-9361</span>
+                <span>(13)99999-9999</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin size={14} />
@@ -69,7 +69,7 @@ const Header: React.FC = () => {
 
             {/* Mobile Menu Button */}
             <button
-  onClick={() => window.open('https://wa.me/13997429361', '_blank')}
+  onClick={() => window.open('https://wa.me/13999999999', '_blank')}
   className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium"
 >
               {isMenuOpen ? <X size={24} /> : <Menu size={24} />}

@@ -22,8 +22,8 @@ const Hero: React.FC = () => {
           </div>
           
           <h1 className="text-5xl lg:text-7xl font-bold mb-6 leading-tight">
-            Pneus de
-            <span className="text-red-500 block">Alta Performance</span>
+            ROBSON
+            <span className="text-red-500 block">VENTURA</span>
           </h1>
           
           <p className="text-xl lg:text-2xl text-gray-300 mb-8 max-w-2xl">

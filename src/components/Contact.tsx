@@ -255,7 +255,7 @@ const Contact: React.FC = () => {
       </p>
     </div>
     <a
-      href="https://wa.me/5513997429361?text=Olá%2C+gostaria+de+mais+informações"
+      href="https://wa.me/551399999999?text=Olá%2C+gostaria+de+mais+informações"
       target="_blank"
       rel="noopener noreferrer"
       className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors text-center"

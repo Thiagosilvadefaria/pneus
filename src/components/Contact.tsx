@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
     {
       icon: Phone,
       title: 'Telefone',
-      info: '(11) 93420-1607',
+      info: '(11) 9000000000',
         },
     {
       icon: Mail,

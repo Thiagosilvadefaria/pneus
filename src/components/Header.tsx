@@ -60,7 +60,7 @@ const Header: React.FC = () => {
                 Contato
               </a>
               <button
-  onClick={() => window.open('https://wa.me/13997429361', '_blank')}
+  onClick={() => window.open('https://wa.me/1399999999', '_blank')}
   className="bg-red-600 text-white px-6 py-2 rounded-lg hover:bg-red-700 transition-colors font-medium"
 >
                 Orçamento

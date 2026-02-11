@@ -84,7 +84,7 @@ const About: React.FC = () => {
                 <div className="text-gray-600">Satisfação</div>
               </div>
             </div>
-            <a href="https://wa.me/13997429361" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/13999999999" target="_blank" rel="noopener noreferrer">
               <button className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
                 Conheça Nossa Loja
               </button>
